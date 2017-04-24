@@ -1,0 +1,104 @@
+*{
+	background-color: #F8F8F8;
+	border: 0px solid black;
+	font-family: 'Raleway', sans-serif;
+	font-size: 14px;
+}
+
+.logo{
+	height: 40%;
+	width: 40%;
+	margin-left: 20px;
+	content: center;
+	vertical-align: center;
+}
+
+.navb{
+	color:#000000;
+}
+
+.nav-band{
+	background-color: #FFFFFF; 
+}
+
+/*.jumbotron {
+	padding: 0px;
+	margin: 0px;
+}
+*/
+.jumbotron {
+	background-color:#FFFFFF;
+}
+
+.band-1{
+	width: 100%;
+	background-color: #F8F8F8; 
+
+}
+
+.band-1-settings{
+	font-weight: bold;
+}
+
+.name_user{
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.band-2{
+	height:40px;
+	width: 100%;
+}
+
+/*.band-2 div:hover{
+	border-bottom: 2px solid black;
+}*/
+
+.links {
+	background-color: #FFFFFF;
+	text-align: center; 
+}
+
+
+.links a{
+	color: #C0C0C0;
+}
+
+.links a:hover{
+	color: #000000;
+	text-decoration: none;
+
+}
+
+.links div:hover{
+	border-bottom: 2px solid black;
+}
+
+.card{
+	box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+	background: #FFFFFF;
+}
+
+.commented{
+	background-color:#F1F1F1;
+	height:50px;
+	width: 100%;
+	margin-bottom:10px; 
+}	
+
+.comments{
+	clear:10px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	border: 2px solid #C0C0C0;
+}
+
+.comment-logo{
+	margin-top: 13px;
+	margin-left: 5px;
+}
+
+.write-comment{
+	color:#C0C0C0;
+	margin-top: 8px;
+}
